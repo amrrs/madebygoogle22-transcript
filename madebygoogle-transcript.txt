@@ -1,0 +1,1142 @@
+0:08
+>> SPEAKER 1: Hey, Google, call Carmen.
+0:24
+On my way. Let me grab the others.
+0:29
+>> SPEAKER 2: Oh, cool.
+0:45
+Yeah, I'll be on.
+1:01
+Give me one sec.
+1:17
+>> SPEAKER 3: Hey.
+1:29
+>> SPEAKER 1: Hi, come on in.
+1:45
+One, two, three. [Applause]. >> RICK: Hi, everyone, and welcome to Made By Google 2022. It's great to be back in a room with you and streaming live
+1:51
+around the world. We’re here in Brooklyn, New York at National Sawdust, a modern
+1:57
+community music venue just a few steps away from our newest Google Store, which opened earlier this summer.
+2:05
+Over the next hour, we’re going to give you an in-depth view at our new Pixel portfolio.
+2:11
+We’ll show you our new devices, and how they work together to create immersive ambient experiences.
+2:18
+So you can get the help you need wherever and whenever you need it, in a way that is effortless, private, and secure.
+2:28
+Every Pixel device is designed to deliver a level of personal intelligence that’s totally unique in the mobile computing
+2:36
+world, so day-to-day problems turn into delightful experiences.
+2:42
+Like making your photos that are blurry sharp in the blink of an eye, and magically erasing
+2:50
+distractions in your pictures. Or automatically reducing background noise on the other
+2:57
+end of your phone call. And protecting you from robo-callers and spam texts.
+3:04
+Or helping you understand more than 100 different languages with Lens in your camera.
+3:13
+You'll even know whether you should rest today or go for that extra mile on your run.
+3:20
+Pixel devices handle all that for you, thanks to our combination of foundational technologies: AI, Android, and
+3:29
+Google Tensor. This is where the "Google" in "Google Hardware" is such a
+3:35
+differentiator for our products. We're completely changing computing by pushing the
+3:41
+boundaries in AI innovation, in order to create helpful experiences for our users.
+3:47
+When you put that innovation to work in hardware devices, it leads to truly novel sets of features and capabilities.
+3:56
+Our Tensor mobile platform extends this approach right onto the silicon.
+4:01
+It was custom designed to support this new paradigm of computing systems, and pull our most advanced machine learning
+4:08
+models out of our research labs right in to Pixel hardware. It represents years of development across Google, and a
+4:16
+long-term investment in the Pixel portfolio. When we first put Tensor to work in Pixel 6, it was a huge step
+4:25
+forward, delivering amazingly helpful, Pixel-only experiences, like Live Translate, Magic Eraser, and Real Tone.
+4:36
+And over the summer, we brought Tensor to Pixel 6a, bringing a helpful Pixel experience at a great value.
+4:45
+The family of Pixel 6 and 6a has been the fastest-selling Pixel generation ever.
+4:51
+And we're just getting started. Now, today, you'll see what we've been building up to for a while.
+4:58
+A true Pixel portfolio of beautifully designed phones,
+5:03
+watches, tablets, and earbuds, all working together to deliver the magic
+5:10
+you expect from Google. Now, this is the future of where Pixel is going, because for us,
+5:18
+Pixel isn’t only a phone experience, it’s a personal, intelligent and cohesive computing experience.
+5:28
+And we’re excited to advance the Pixel computing experience this year with our new Google Tensor G2 mobile compute platform.
+5:39
+With Tensor G2, our phones and tablets can do so much more, and we've added a next-generation on-device TPU, which keeps up
+5:48
+with our rapidly evolving machine learning research. You’ll hear lots more about Google Tensor G2 today.
+5:56
+And we’ll give you an in-depth look at the new Pixel devices in the new Pixel portfolio, how they work for you and how they work together.
+6:05
+But just as important is how they look together, inside and out.
+6:12
+The new members of the Pixel family are some of the most beautifully refined products we've ever made.
+6:18
+And now, here's Isabelle to tell you a little bit more about our design process.
+6:24
+[Applause]. >> ISABELLE: Looking across the Pixel family, you’ll notice
+6:33
+everything shares a single design language that’s uniquely Pixel. So they fit together, even while they're designed for all kinds of different context and use
+6:42
+cases where technology can be helpful. A watch needs to be able to dress up for a night out, and be
+6:48
+durable enough to go with you When you’re camping or rock climbing. Earbuds need to stay put comfortably and give you
+6:55
+hands-free help when you’re in the middle of a long flight or a short walk or a challenging workout.
+7:02
+And your tablet should be able to travel with you, from the coffee shop to the couch to the kitchen.
+7:08
+And of course, your phone is your most constant companion.
+7:13
+the Google design team puts so much thought into how we embrace and enhance this fluidity.
+7:19
+Your phone and watch are designed to be personal, to be touched and worn.
+7:24
+Your phone gets pulled in and out of your bag and pocket hundreds of times per day. And they have smooth, rounded surfaces that always feel right
+7:34
+in your hand and on your wrist. And we’ve put together color combinations and
+7:39
+finishes that are totally unique to Google hardware, with different tones and textures for different collections of
+7:46
+products. With our newest Pixel phones, we’re introducing a zirconia-blasted aluminum that feels silky-smooth in your hand,
+7:55
+and a polished aluminum that lets the metal really shine. The metal construction is simpler than previous Pixel
+8:03
+phones, and it’s durable, to hold up against the ups and downs of life.
+8:08
+The metals and colors pair elegantly together, and they’re designed to work with the software, too, for this complete holistic
+8:16
+experience across the hardware and software. That’s the thinking behind Material You, which we launched
+8:23
+last year. Material You is an innovative approach to software design that intelligently customizes your Pixel UI around your own color
+8:32
+preferences and even your photos. Material You enhances the OS interface, settings,
+8:40
+notifications, and popular apps, for a fluid software experience that feels connected to the hardware.
+8:46
+We’re bringing our flexible, personal design approach to new devices, too, like Google Pixel Watch.
+8:54
+A watch is only helpful when it’s on your wrist, so we designed Pixel watch to be worn every day, with hardware and
+9:01
+software that look and feel great, no matter what.
+9:07
+Inspired by the continuous surface of a water droplet, the domed design makes the bezel visually disappear.
+9:14
+And it’s practical, too, comfortable on the wrist, and it doesn’t get in the way of shirts and sleeves.
+9:21
+And you should be able to decide how your watch fits your style. So you can choose from three distinct jewelry-inspired finishes in stainless steel.
+9:30
+They come in black, silver and gold. And you’ll get deep customization with our
+9:37
+innovative band system. You'll notice that the Pixel Watch doesn't have prominent external lugs like other watches
+9:44
+do. Instead, the bands attach internally, similar to how a camera lens attaches to a camera body.
+9:51
+Just twist and click, and you get a seamless transition between the watch and the band.
+9:56
+The system makes it so easy to swap between a wide variety of bands. And it completely transforms Pixel Watch to match your vibe.
+10:06
+With the Active band, you get the all-day flexibility of a fitness smartwatch. The stretch and woven bands are cozy and comfortable, so you can
+10:14
+wear your watch all the time, even overnight. And with the metal and leather bands you get a more classic
+10:21
+watch persona. You'll hear a lot more about the Pixel Watch experience later
+10:26
+today. From a design perspective, every element of the watch flows
+10:31
+together. From the band options, to the casing, to the personalization of the UI, and dozens of customizable watch faces.
+10:40
+So you can go with an analog or a digital look. Display as much or as little information as you’d like.
+10:46
+And if you want the traditional analog look of a leather band, but with a minimal digital watch face, go for it.
+10:53
+It will look great. Between the bands, finishes and watch faces, you have thousands
+11:00
+of combinations to make your Pixel Watch uniquely yours. It’s all part of the Pixel portfolio approach to colors and
+11:08
+finishes. We don’t just copy-paste one color we like across all of our
+11:13
+products. Instead, we use a spectrum of shades that are unique to different products, but come
+11:18
+together in a cohesive collection. So we have dark and light neutrals.
+11:24
+And our warm collection is designed around our new Lemongrass tone.
+11:30
+And we’ve created a cooler Family of colors, featuring our new Hazel hue.
+11:36
+Think of it like building out your wardrobe. Your pants or a jacket might be understated, and your sneakers
+11:42
+give you a pop of color. Everything goes nicely together without looking blandly the same.
+11:49
+We’re also excited for you to check out our new tablet. We wanted to create a larger screen that would be useful in
+11:56
+different contexts in your life. A device that fits in your home, and feels elegant in your
+12:03
+hand. So we developed an entirely new nano-ceramic coating inspired by
+12:09
+the fine texture of porcelain. It’s a custom finishing process where small ceramic particles
+12:15
+are infused into the coating that we apply to the tablet’s 100% recycled aluminum body.
+12:22
+This gives it a soft, matte, textured feel, like no other tablet. So we're introducing quite a few design innovations with the
+12:32
+Pixel portfolio. And the design approach goes beyond form and function.
+12:37
+We design for impact, too, across everything we do. From product design to manufacturing, and across our
+12:45
+communities and supply chains, we are being thoughtful about our environmental impact at every step.
+12:51
+At Google, we’ve set a goal to achieve net-zero emissions across all of our operations and value chain, including our
+12:59
+consumer hardware products by 2030. For emissions associated with powering our data centers and
+13:06
+office campuses, we have an ambitious goal to operate on 24/7 carbon-free energy by 2030.
+13:12
+For the hardware team, net-zero emissions means we have to combine art and science to reimagine every single element
+13:21
+that goes into a product, the process we use to manufacture it, and the longevity you get out of it.
+13:28
+So the design team works closely with Google engineers to create new ways to incorporate recycled metals, plastics, glass, and
+13:36
+fabrics. And we're proud to announce today that every product you'll see today is made with recycled materials.
+13:45
+So the aluminum in the phone enclosure is made with 100 percent recycled content, reducing the enclosure’s overall
+13:51
+carbon footprint by over 35 percent. The watch case is made with 80% recycled steel.
+14:00
+Even the fabric on the stretch band I showed you is made with yarns that are 100 percent recycled.
+14:07
+We have a deep responsibility to create sustainable technologies. And I’m so proud to be part of a team of designers, product
+14:15
+engineers, and operations specialists who are doing impactful work to help our planet.
+14:23
+The other deep responsibility we have at Google is to our users’ privacy and security.
+14:28
+And over the years, we’ve developed a number of industry-leading technologies to protect your data.
+14:34
+I'll hand it off to Jen to tell you more. >> JEN: Thanks, Isabelle.
+14:42
+Every day, our teams of world-class privacy and security
+14:47
+experts help protect your personal information, by ensuring all Google products are secure by default, private by
+14:55
+design, and put you in control. This is critical, because we know that our products can only
+15:01
+be as helpful as they are safe. That’s why we’ve built Google Pixel 7 and Pixel 7 Pro
+15:07
+to be our most secure and private phones yet. Pixel 7 has multiple layers of verifiable security with our
+15:14
+custom Google Tensor SOC, and our dedicated Titan M2 security chip.
+15:20
+Titan M2 is derived from the same chip we use to protect Google Cloud data centers, and it’s now Common Criteria
+15:26
+certified to the highest security level possible. Meaning that titan M2 meets the same rigorous protection guidelines
+15:34
+trusted by banks, carriers, and governments. Pixel 7 also provides five years of guaranteed security updates,
+15:41
+so your phone gets the latest security protections over time. When it comes to protecting your personal information,
+15:49
+world-class security is only half of the equation. The other is privacy, which is why everything we build is
+15:55
+private by design. At I/O earlier this year, we announced Protected Computing, a
+16:01
+growing toolkit of technologies, that transforms how, when, and where personal data is processed to protect your privacy.
+16:10
+With Protected Computing, we’re focusing on three areas. First, minimizing your data footprint, shrinking the amount
+16:17
+of personally identifiable data altogether. Second, de-identifying data so it’s not linked to you.
+16:24
+And third, restricting access to your data using technologies like end-to-end encryption and secure enclaves.
+16:32
+With Protected Computing, features like Live Translate, Spam detection in Messages, and Smart Reply provide intelligent,
+16:41
+personalized experiences, without any data leaving your device. And with Google Pixel 7, we’re using Protected Computing to
+16:49
+keep your health and wellness data private. For example, with your permission, Digital Wellbeing
+16:55
+can help you understand the quality of your sleep by analyzing audio from coughs and snores during the night.
+17:01
+That audio data is never stored by or sent to Google. The processing happens right on your Pixel 7.
+17:08
+Of course, not everything can be processed on your device. Like when you use your phone to browse the web.
+17:15
+This is where a virtual private network comes in. A VPN encrypts your network traffic to turn it into an
+17:20
+unreadable format and masks your original IP address, so your online activity stays private to you.
+17:28
+Later this year, Pixel 7 and Pixel 7 Pro will be the first phones to come with a VPN, at no extra cost.
+17:35
+And unlike traditional VPN services, Google’s verifiably private VPN can’t associate app and browsing traffic with your
+17:42
+Google account or identity. With our continued investment in Protected Computing, I’m excited
+17:49
+to see how we can deliver even more private experiences across all of our products.
+17:54
+Of course, core to your safety is knowing that you’re in control. And with Android 13, we’re making it even easier, with
+18:02
+privacy and security settings all in one place. This includes new action cards that notify you of any safety
+18:10
+risks, and provide easy steps to enhance your privacy and security. This new experience will be available first on Pixel devices
+18:17
+later this year, and other Android phones soon after. With Protected Computing, hardware protection from Titan
+18:25
+M2, and centralized privacy and security settings, no one is deploying a more comprehensive approach to safety at this
+18:32
+scale. It's this type of innovation that helps us keep more people safe online than anyone else in the world.
+18:39
+Here’s Brian to tell you more about Pixel. [Applause].
+18:47
+>> BRIAN: As the Pixel portfolio expands, the phone is at the
+18:54
+center of it all. When we launched Pixel 6, we introduced the world to the first phone powered by Google Tensor, using our advances in AI
+19:03
+to create a more helpful experience, with features and capabilities you couldn’t get on any other phone.
+19:10
+Pixel has always been a leader in smartphone innovation, and we take it as a compliment when others in the industry follow our lead.
+19:17
+Like the always-on display and At a Glance, introduced with Pixel 2, putting useful info right on your lock screen.
+19:24
+There’s Night Sight, which launched with Pixel 3, and astrophotography, which set a new bar for low-light
+19:30
+photography on a smartphone. And we introduced Car Crash Detection three years ago, along
+19:36
+with other important ways to keep you safe, like Safety Check and Emergency Sharing. It’s an amazing track record of pioneering features that were
+19:44
+first on Pixel, and make the phone experience so much more helpful.
+19:50
+We even take a different approach in how we deliver our latest innovations. So much of the unique Pixel experience is software-defined,
+19:58
+which means that we can give your existing phone access to new features and upgrades, so your Pixel stays useful longer.
+20:04
+That’s the idea behind Pixel Feature Drops. Every few months, your phone gets new capabilities and
+20:11
+features, which means your Pixel gets even better over time.
+20:16
+And you'll be protected over time, too, with five years of security updates directly from Google.
+20:22
+With a steady stream of Feature Drops and ongoing security updates, Day One with your Pixel phone is just the first of many
+20:29
+best days to come. Speaking of Day One, I’m excited to show you the new standard for
+20:35
+smartphones. Pixel 7 and Pixel 7 Pro. They take all the helpfulness and personal intelligence people
+20:42
+love about Pixel, and make them even better. Pixel 7’s improvements start with the looks.
+20:50
+This is the ultimate refinement of Pixel, simplifying the parts and construction to make a phone that’s sophisticated and
+20:57
+distinct. Pixel 7 has a silky matte finish on the aluminum camera bar and housing with three camera colors, three color options.
+21:07
+It features a sharp 6.3-inch display, with smaller bezels and 25 percent higher peak brightness, for incredible
+21:14
+outdoor visibility during the day. Pixel 7 also includes a great all-day battery, with up to 72
+21:21
+hours between charges when you use extreme battery saver mode. In terms of camera, it sports a dual rear camera system, as well
+21:29
+as an upgraded, ultrawide front-facing camera with a larger sensor for better night time selfies, and stunning 4K
+21:36
+video. And we’re taking the Pixel lineup to new heights with Pixel 7 Pro.
+21:42
+It’s our most advanced phone yet, with a beautiful, sophisticated design and a pro-level camera, with
+21:48
+performance to match. You can see the premium polished aluminum finish on the camera
+21:54
+bar and housing, which complements its three colors. Pixel 7 Pro has an upgraded, super-sharp 6.7-inch display.
+22:03
+With its variable refresh rate, you get responsive gaming and smooth scrolling, without killing your battery.
+22:09
+Pixel 7 Pro has a triple rear camera system featuring upgraded telephoto and ultrawide cameras.
+22:17
+Its front-facing ultrawide camera is great for low-light selfies, videos, and more.
+22:22
+And the front camera has another role to play. Pixel 7 and 7 Pro’s front camera uses our advanced machine
+22:29
+learning models for face recognition, to power Face Unlock. So you have the faster, more secure under-display fingerprint
+22:37
+reader, and now you have the convenience of unlocking your phone with a glance.
+22:42
+You heard Rick speak earlier about the new Tensor G2 chip, our powerful new processor inside Pixel 7 and 7 Pro.
+22:51
+Our next-generation chip includes a dedicated TPU, so we can bring Google’s state-of-the-art AI and personal intelligence directly to the phone.
+22:59
+And the entire Tensor G2 chip has been designed to ensure every major sub-system works really well together, to handle
+23:05
+the complex and nuanced nature of Google's most innovative software and ML capabilities.
+23:11
+So now, machine learning runs up to 60% faster and up to 20% more efficiently on Pixel 7 and 7 Pro.
+23:19
+Tensor G2’s design also helps lower the power consumption for everyday phone activities, like recording videos, streaming
+23:25
+music, speech recognition, and translating conversations. And Tensor G2 makes your smartphone smarter, enabling all
+23:33
+kinds of technological breakthroughs and magically helpful experiences. With Tensor G2 at its core, Pixel 7 is the best smartphone
+23:42
+for voice assistance. It's the best phone for calling. It’s the best phone for photography.
+23:49
+And as you heard from Jen, it's the most secure and private Pixel we've ever made.
+23:54
+Let’s start with voice assistance. Google’s industry-leading understanding of human language
+24:00
+and speech powers our most helpful voice experience with new capabilities on Pixel 7 and Pro, thanks to Tensor G2.
+24:09
+When your phone understands your voice, it opens up so many more possibilities, translating conversations with Live
+24:15
+Translate, asking Google Assistant endless questions, navigating directly to apps without tapping, and easily
+24:22
+sending messages. Take Assistant voice typing, which is on average two and a half times faster
+24:29
+than using a keyboard. On Pixel 7, Assistant voice typing will automatically
+24:34
+suggest relevant emojis to insert, and it’s much more forgiving now in case you don't know the exact name of the emoji
+24:40
+you’re looking for. So saying something like "happy emoji" gets you what you want. But that’s an easy one.
+24:46
+What about “upside down face emoji,” or “heart eyes cat
+24:51
+emoji,” or “woohoo emoji.” [Laughter] Speaking to your phone can be so
+24:57
+much more convenient, but listening isn’t always an option When you’re on the receiving end.
+25:02
+Ever get an audio message when you’re in a quiet place without headphones? It’s frustrating, right? Well, Pixel 7 can now use Google's advanced speech
+25:10
+recognition model to transcribe your audio messages right in the Messages app, so you can quickly skim them.
+25:17
+And when it comes to your text messages, Pixel uses RCS for enhanced media sharing and end-to-end encryption.
+25:23
+RCS is the modern industry standard for messaging, and it’s already been adopted by most of the industry.
+25:30
+We hope every device maker gets the message and adopts RCS, making texting better for every smartphone user.
+25:38
+And if there are any reporters in the crowd, you’ll be happy to hear that the Recorder app on Pixel 7 is getting speaker labels later this year.
+25:45
+So instead of a single transcript of your meeting or interview, on-device speech models will separate the
+25:50
+speakers for you. Now, what about phone calls?
+25:57
+Between spammers, customer service phone menus, and bad audio quality, phone calls can be such a hassle.
+26:04
+So Pixel 7 is designed to be the best phone for actual phone calling. Pixel devices are the only phones with Pixel Call Assist, a
+26:12
+suite of features that helps with everything from making calls to avoiding them.
+26:18
+Like Call Screen, which automatically answers unknown callers, asks who's calling, and filters out spammers, based on
+26:23
+what they say, without ever interrupting you. Our users tell us Call Screen is one of their favorite Pixel
+26:29
+features. And for good reason. It handled over 600 million calls for users last year.
+26:35
+And when you call a business, Direct My Call can help you navigate their phone directories without having to listen and
+26:41
+re-listen to a list of options. Since launching Direct My Call last year, it's helped Pixel
+26:46
+users navigate over 50 million calls with businesses. With Pixel 7, the direct my call experience gets even easier.
+26:55
+Instead of listening to a long recorded message describing each option, you'll see a list of menu options right away.
+27:01
+You can tap the option you want, even before it's spoken. Your phone should also make your phone calls sound better.
+27:09
+Coming in a feature drop later this year, Clear Calling will make it even easier to hear the other person at the other end of the line.
+27:16
+Just like the acclaimed background noise suppression on Pixel Buds Pro, Clear Calling uses machine learning to
+27:22
+recognize, isolate and eliminate distracting sounds like wind and traffic noise, while enhancing your caller's voice.
+27:29
+So your friends can call you from anywhere, and you'll be able to hear them just fine. The suite of Pixel Call Assist features is the perfect example
+27:37
+of Tensor G2 and Google's state-of-the-art AI coming together in Pixel 7 to deliver an elevated smartphone
+27:43
+experience. And as you've seen over the years what our AI can do for a smartphone camera.
+27:51
+Pixel Camera is what the phone is famous for, and it's once again been rated as the best smartphone camera in the
+27:56
+industry. Here's Shenaz to tell you what the Pixel 7 camera can do.
+28:01
+[Applause]. >> SHENAZ: Before Pixel, very few people outside Google and
+28:12
+academic research had ever heard the term "computational photography", much less applied it to smartphone cameras.
+28:21
+With Pixel 7 and Google Tensor G2, we continue to lead in computational photography, with a powerful set of features that
+28:30
+help you take accurate images for every skin tone, fix your
+28:36
+photos, film high-quality videos, and snap great pictures
+28:41
+from up close or far away. Let's start with inclusivity.
+28:46
+It's absolutely critical that Pixel 7's improved photo quality
+28:52
+extends to everybody. People with darker skin tones are rendered unnaturally when
+28:58
+photographed by most cameras. So last year, we introduced Real Tone to make our camera and
+29:06
+image products work more equitably for people of color. And we continue to partner with image experts, both in the U.S.
+29:15
+and around the world, to help evaluate our Pixel Camera and make sure skin tones are represented beautifully and
+29:23
+accurately. Over the past year, they've added more than 10,000 images to
+29:29
+The datasets used to tune Pixel's camera. Through that work, we've tuned exposure and brightness to
+29:37
+better represent darker skin tones in low-light situations, ensuring everyone looks great in those beautiful Night Sight
+29:45
+shots on Pixel 7. We've also partnered with a community of BIPOC and
+29:51
+non-western photographers, editors and visual producers from Diversify Photo to evaluate how we are delivering
+30:00
+improvements to Real Tone. And with these updates, we're proud to say Pixel is still the
+30:08
+most inclusive camera. Pixel 7 also improves the accessibility of Pixel's camera.
+30:17
+Finding that perfect angle for a selfie can be particularly challenging for blind and low-vision users.
+30:25
+Pixel 7 can solve that, with our new Guided Frame. Here it is in action.
+30:36
+>> SPEAKER 1: One face. Move your phone slightly left and down.
+30:42
+Move your phone slightly right and up. Ready for selfie. Three, two, one. Photo taken. One face. >> MOLLY BURKE: Oh, my God.
+30:48
+I love this. >> SPEAKER 1: One face. Selfie. Move your phone right and up.
+30:53
+Ready for selfie. >> MOLLY BURKE: Wait. I want to get my light.
+31:00
+>> SPEAKER 1: One face. Photo taken. Selfie. One face. >> MOLLY BURKE: This is so cool. My name is Molly Burke.
+31:06
+I am a social media content creator and motivational speaker Who happens to be blind. So often I find accessibility's focused on making sure disabled people can do the bare minimum to get by.
+31:13
+It's important that accessibility not just focus on designing things to make disabled people function, but
+31:18
+also empower them to have fun in life again. >> LINGENG WONG: I'm Lingeng Wong.
+31:24
+I'm one of the original creators of Guided Frame. Guided Frame is a smart selfie feature that helps blind and
+31:32
+low-vision users to take a beautiful selfie. >> SPEAKER 1: One. Photo taken. >> LINGENG WONG: Selfie to me and to many blind users, I think is
+31:38
+a way they express themself. >> MOLLY BURKE: For so long I couldn't take selfies because I
+31:44
+could never frame it correctly. I would try to show a friend a New t-shirt that I got, and I'd
+31:49
+be like, "Look at how cute this top is." And I'd text her a selfie, and she'd be like, yeah, I can't see it at all. >> LINGENG WONG: In Google, we strive to make our technology
+31:58
+and product accessible for everyone to use. So it's super important for us to develop a camera experience
+32:04
+that's inclusive. >> SPEAKER 1: Three, two, one. Photo taken. >> LINGENG WONG: We are constantly checking with our blind and low-vision users because their feedback helps make our product
+32:12
+much better. >> MOLLY BURKE: My mom is an incredible photographer, but I don't want to always have to rely on my mom to take my
+32:20
+photos. That's one of those basic, everyday things that gives you that independence that we as disabled people crave.
+32:30
+>> SHENAZ: With the added -- [Applause].
+32:39
+With the added accessibility of Guided Frame, and the inclusivity and accuracy of Real Tone, we're continuing
+32:46
+our ongoing mission to build a more equitable experience across our camera.
+32:52
+Now, here's a problem that stretches back to the earliest days of photography: Blurry photos.
+32:59
+It's very easy to blame the camera for a blurry shot, but cameras have always struggled to get a clear photo, especially
+33:08
+when your kids won't hold still, or when there's not enough light in the room at a party.
+33:14
+Pixel 7 and Tensor G2 can fix that. So it's easier than ever to take crisper, sharper images, no
+33:23
+matter how challenging the scene might be. For instance, with Tensor G2's new ML de-noiser, Night Sight is
+33:31
+now twice as fast, reducing unwanted motion blur and producing beautiful low-light images with the same amount of
+33:40
+clarity. Of course, we all know blurriness doesn't happen just at night.
+33:47
+Even during the day, if your hand or your kid is moving too much, or your focus isn't perfect, you'll get blurry
+33:54
+images. Pixel 7 fixes that by automatically fusing images from
+34:00
+the ultrawide and main cameras together to help ensure faces are clear.
+34:07
+Tensor G2 goes even further, using a cutting-edge machine learning approach to remove even more blur in even more photos,
+34:17
+so your images are incredibly sharp. Now, most of us have a large collection of old photos, but
+34:25
+you might have taken them on a phone or camera that doesn't quite match the quality of a Pixel phone.
+34:32
+And that's perfectly fine! Because Pixel 7 can help fix those photos for you with a
+34:39
+brand new feature called Photo Unblur, which is only available with Google Photos on Pixel 7 and Pixel 7 Pro.
+34:50
+Photo Unblur uses Tensor G2's machine learning capabilities to remove blur and visual noise from entire images, so now with
+35:00
+just a few taps, you can relive the moment as clearly as you remember it.
+35:06
+And you can touch up those old photos with Magic Eraser to quickly and easily remove distractions.
+35:13
+So all your photos are as good as you want them to be, no matter how old they are.
+35:21
+One of my colleagues has been using Pixel to make photos of his children, which he has taken over the years, much better.
+35:28
+Let's take a look.
+35:40
+[Cheers and Applause].
+35:58
+>> SHENAZ: Now we are all capturing more and more of our lives through video.
+36:08
+Pixel 7 brings big improvements to the video camera, so you can create stunning videos you'll want to share.
+36:16
+For example, we're introducing Cinematic Blur to the Pixel camera.
+36:21
+With Tensor G2, Pixel 7 can generate very high-quality depth
+36:27
+information, at low power and low latency.
+36:32
+Cinematic Blur combines that depth information with high image quality and high dynamic range.
+36:39
+So for the first time, you can shoot cinema-like videos with a beautifully shallow depth-of-field.
+36:47
+Tensor G2 powers lots of other video improvements, too, like new 10-bit HDR, so you can record brighter videos with
+36:55
+wider color ranges and higher contrast. With 10-bit HDR, your videos look more like real life, and
+37:03
+utilize the full capabilities of Pixel 7 and Pixel 7 Pro's
+37:08
+amazing displays. We've even partnered with Snap, TikTok and YouTube, so your HDR
+37:15
+videos look vibrant when shared on your favorite apps. And here's a challenge you've probably run into, getting those
+37:23
+smooth video shots without any fancy equipment. With our highest quality video stabilization technology, Tensor
+37:31
+G2 brings together hardware and software to help you get pro-looking videos that capture the moment and not your
+37:41
+movement. The auto focus is better, too, so your subject stays in focus
+37:46
+while on the move. Lastly, we're extending our Speech Enhancement and 4K60
+37:53
+frames per second across all Pixel 7 cameras, so you can be heard clearly without the background noise and record the
+38:02
+moment in brilliant high resolution. With Cinematic Blur, 10-bit HDR, video stabilization and
+38:10
+improvements to autofocus and speech enhancement, your videos will look better, sound clearer and feel more professional,
+38:19
+anywhere you choose to post them. Now let's move on to a common problem for smartphone
+38:25
+photography: Zoom. And here's Alex to give you an up-close look at our zoom
+38:31
+technology. [Applause]. >> ALEX: Pro photographers have different zoom lenses to make
+38:41
+small objects feel life-size, or faraway objects feel within
+38:46
+reach. These are some of the last frontiers of smartphone photography, where phones haven't been able to truly
+38:53
+replicate the quality of a DSLR. Historically, packing professional-quality zoom into a
+39:01
+smartphone hasn't been possible. It was a physics challenge of fitting large optics into just a
+39:07
+few millimeters of space. Last year, with Pixel 6 Pro, we introduced a folded telephoto
+39:13
+camera that fits right in the Pixel Camera bar. The result was stunning photos at 4x optical zoom.
+39:21
+But zoomed photos should look great at a range of distances, not just at the telephoto's optical zoom.
+39:29
+You should be able to get a sharp photo at any magnification. With Google Tensor G2, Pixel 7 Pro pushes computational
+39:37
+photography to new heights with Pixel's pro-level zoom. It cleverly combines state-of-the-art hardware,
+39:45
+software and machine learning to create amazing zoom photos across any magnification.
+39:51
+This shot came from someone at our Tensor team who's not even a professional photographer. Obviously she didn't want to get too close to an apex predator.
+40:00
+And with Pixel 7 Pro, she got this beautiful, pro-level image from a safe distance.
+40:08
+Pixel 7 Pro has the highest quality zoom on a Pixel ever, across the entire zoom range.
+40:16
+It's like having the power of a DSLR and all the lenses you'd ever need, but it's easy enough for everyone to use, and it fits
+40:24
+right in your pocket. Let's get into how it works. To start, we know photographers love taking photos at 2x,
+40:34
+because it's the most similar to their natural perspective. Now, you could add another camera with a 2x telephoto lens,
+40:40
+but that means a bulkier phone. Pixel 7 Pro can do better, increasing zoom magnification
+40:47
+without the added bulk. Super Res Zoom has delivered amazing zoom photos since Pixel
+40:54
+3, and this year we've re-engineered it to go even further, with higher-resolution images.
+41:02
+Our next-generation Super Res Zoom allows us to roughly double the magnification of our optical lenses.
+41:09
+So starting at 2x, Super Res Zoom crops Pixel 7 Pro's main
+41:14
+50 megapixel camera, using a high resolution mode to provide a 12.5 megapixel image.
+41:21
+It has more resolution than before, but the smaller pixels are also noisier.
+41:28
+To fix those smaller and noisier pixels, it re-mosaics the image into a traditional bayer format, so our imaging pipeline can
+41:36
+de-noise it, through HDR+ bracketing, which aligns and merges a burst of frames, giving you high resolution and
+41:44
+low noise. The result is a full 12.5 megapixel photo at 2x that looks
+41:51
+stunning, and similar to what you would get from a dedicated 2x telephoto camera. And because both phones share the same large main sensor, you
+42:00
+can get this high-quality 2x shot on both Pixel 7 Pro and Pixel 7.
+42:07
+Okay. So what if you want to zoom in just a little more, but not all the way to the optical zoom?
+42:13
+That's no problem with pro-level zoom. Keep zooming on your Pixel 7 Pro, and Super Res Zoom takes a
+42:19
+photo from both the telephoto and the main camera. Then a new ML model on Tensor G2 aligns and fuses these together
+42:29
+to create a composite that's as sharp as possible. So you get great zoom quality, even between the two cameras.
+42:37
+As you keep pinching to zoom, Pixel 7 Pro's upgraded 5x telephoto camera kicks in.
+42:43
+And Tensor G2 powers a new ML autofocus algorithm that ensures your photos are sharp and detailed.
+42:51
+Now here's my favorite bit of tech. Pinch to zoom in to 10x, and Super Res Zoom performs the same
+42:58
+process it does at 2x, to create a full 12MP photo that's similar
+43:03
+to a dedicated 10x telephoto camera. So with Super Res Zoom on Pixel 7 Pro, you don't just get one
+43:11
+telephoto camera. You get a 2x, a 5x and a 10x helping you capture amazing
+43:18
+photos across a variety of magnifications. No DSLR or external lenses required.
+43:26
+As you zoom in even more, hand motion starts to become an issue.
+43:31
+At 15x zoom, even small movements translate into jarring changes in the viewfinder, and this can make composition really
+43:39
+hard. Pixel 7 Pro's Zoom Stabilization keeps your camera steady when
+43:45
+zooming past 15x. It identifies the subject in the viewfinder, then stabilizes the
+43:50
+camera on it, even if your hands are drifting or shaking. That makes it easier to zoom in even further.
+43:58
+At 20x, pro-level zoom uses a new ML model on Tensor G2 that upscales your photos to provide even more resolution.
+44:08
+So now you'll be able to take amazing, detailed photos all the way up to 30x, the largest zoom magnification ever on a Pixel.
+44:17
+And it couldn't be easier. Just pinch in the viewfinder, and your Pixel 7 Pro takes care of the rest with the highest quality zoom at any range on a
+44:26
+Pixel. But what if you want to get up close? Like, really close.
+44:33
+Pixel 7 Pro's new ultrawide lens is 21 percent wider than Pixel 7's, and it now has autofocus, which powers our New Macro
+44:41
+Focus. So now you can get vivid close-ups of objects as close as
+44:46
+three centimeters away, with Pixel's signature HDR+ quality. Now, that's close enough to photograph rain drops,
+44:56
+individual flower petals, grains of pollen, and the most minute
+45:01
+details of what makes us, us, in full sharpness and vibrant
+45:07
+color. It's a great way to make magnificent shots from the everyday, showing that even the smallest details matter.
+45:16
+With the combination of Macro Focus and our next generation Super Res Zoom, Pixel 7 Pro delivers gorgeous,
+45:24
+detailed photos at .5x, at 30x, and everywhere in between.
+45:31
+Back over to you, Brian.
+45:37
+[Applause]. >> BRIAN: So that's Pixel 7 and Pixel 7 Pro, the only phones
+45:43
+with Google Tensor G2, so they're the best phones for photography, from sharpening your photos, to getting you in
+45:50
+closer, to letting you shoot cinema-quality video, and accurately reflecting every shade of skin.
+45:56
+They're the best phones for calling, with Pixel Call Assist. They're the best phones for voice assistance, with Live
+46:03
+Translate, and Assistant voice typing. And they're our most secure and private phones yet, with Tensor
+46:09
+G2, Titan M2, the new VPN by Google One, and so many other protections built in.
+46:16
+Pixel 7 is engineered to understand you and your world, putting Google's personalized intelligence right in your hand.
+46:23
+Pixel 7 Pro is Google's most powerful phone. It brings serious performance, and an upgraded telephoto lens,
+46:30
+with the highest quality zoom on a smartphone yet. Pixel 7 and Pixel 7 Pro are the pinnacle of Pixel helpfulness,
+46:37
+and we're making them available to even more users in more places. They're available for pre-order starting today, and on-shelf
+46:44
+next week. We want people to give Pixel 7 a try. So while phones in this tier typically start at $799, we're
+46:51
+setting the starting price at just $599. The Pixel 7 Pro starts at $899, much lower than other flagship
+46:59
+devices. And we have some great offers from Google and our carrier partners. Here in the U.S., you can get a Pixel 7 Pro with up to $899 back
+47:07
+with an eligible trade-in. And if you're looking for the ultimate companion to Pixel 7
+47:13
+and Pixel 7 Pro, well, James has some exciting news for you. [Applause].
+47:18
+>> JAMES: Hey, everyone. We're so excited today to finally give you a complete
+47:27
+look at our new flagship Google Pixel Watch. It's the first smartwatch to deliver the best of Google and
+47:35
+Fitbit, and it's the perfect companion to your Pixel devices. Pixel Watch features a beautiful, custom-developed 3D
+47:43
+cover glass that's tough and scratch-resistant, and the curved form makes it unique and inviting.
+47:50
+There's no device more personal than the one you wear all day. So Pixel Watch is designed to reflect your personal style,
+47:56
+with all the watch bands and customizable watch faces Isabelle showed you earlier. The combinations are endless, and just as importantly, Pixel
+48:04
+Watch is designed to understand you and your needs throughout the day. Every time you glance at your Pixel Watch, it's doing
+48:11
+something helpful for you, not just prompting you to pick up another device.
+48:16
+It quickly delivers the notifications you want, without creating the distractions you don't.
+48:22
+With Pixel Watch, you can simplify your life with the best of Google on your wrist. Adjust your thermostat from your watch with the Google Home app.
+48:30
+Listen to your favorite artists with YouTube Music, whether you're on a run without your phone, or just running an
+48:36
+errand. Set your favorite Google Photos images as a custom watch face.
+48:41
+See quick notifications from Gmail and Calendar. Make checkout and transit a breeze with Google Wallet.
+48:49
+Get turn-by-turn directions directly on your watch with Google Maps. And with Google Assistant, you can use your voice to do quick
+48:56
+actions like sending messages, setting timers, controlling your music and starting your run.
+49:03
+Beyond Google integrations, Wear OS unlocks a rich ecosystem of your favorite experiences, from the Bitmoji watchface to apps
+49:11
+like Line, Adidas Running, Strava, Calm, Spotify, and so
+49:17
+many more. Of course, it's not just an incredibly helpful smartwatch.
+49:23
+Pixel Watch is also the first Wear OS device with Fitbit. It's a powerful pairing, combining Google's expertise in
+49:31
+designing helpful experiences for billions of people with the best health and fitness insights from Fitbit.
+49:38
+Together, Google and Fitbit deliver a personal smartwatch experience like none other.
+49:45
+Pixel Watch uses a combination of on-device machine learning and deep optimization, down to the processor level, to give you
+49:52
+an accurate measurement of your heart rate continuously at once per second.
+49:58
+Whether you're working out or resting, and all the times in between. While maintaining an all-day battery life up to 24 hours.
+50:08
+By joining the expertise of Fitbit and Google's machine learning teams, Pixel Watch is powered by Fitbit's most
+50:14
+accurate heart rate tracking yet. This level of all-day, accurate heart rate tracking is so much
+50:21
+more useful than the less frequent intervals of other smartwatches. Here's an inside look at how Pixel Watch achieves this
+50:29
+incredible milestone. >> TRACY GIEST: The Google Pixel Watch tracks heart rate like
+50:36
+time, down to the second. >> DECARLOS LOVE: Fitbit plus Google. Both sides are bringing great expertise.
+50:41
+We had a vision of delivering a great health and fitness experience powered by a great heart rate tracking experience.
+50:48
+>> TRACY GIEST: Tracking heart rate on the wrist specifically is incredibly challenging. >> YOJAN PATEL: To measure heart rate we use a sensor called a
+50:54
+photoplethysmograph. The photo means light. And essentially what we're trying to do is determine the
+50:59
+effects of light on your pulse. >> MAREK DONIEC: The main challenge is measurement noise, noise that comes in from things such as your motion.
+51:07
+>> TRACY GIEST: There's a lot to consider in terms of leveraging the different sensors to make it as accurate as possible.
+51:13
+>> DECARLOS LOVE: Everyone knows that Google is great at AI, but getting a chance firsthand to see what that really means was
+51:19
+amazing. >> TRACY GIEST: We started by gathering thousands of hours of training data from our participants, both in the
+51:25
+research labs as well as during their real world usage. >> MAREK DONIEC: And machine learning helps us basically take
+51:30
+all of this data and pull all the common patterns both in everyday life during their everyday exercises, learn to
+51:38
+reject the noise, and in the end generate an accurate heart rate. >> DECARLOS LOVE: The true benefit is recognizing patterns.
+51:45
+If we can understand what the user is doing, we can then give those insights. Heart rate tracking and the overall activity tracking is
+51:51
+really important for that. >> TRACY GIEST: Honestly, working on this heart rate project really taught me that amazing things are possible. >> DECARLOS LOVE: It really was a culmination of multiple years,
+52:00
+several iterations involving a lot of teams, and the end result of that is allowing us to have our most accurate heart rate
+52:05
+tracking yet. >> SPEAKER 5: What's your heart rate right now? >> MAREK DONIEC: Actually, I'm at 70, so not too bad.
+52:15
+>> TRACY GIEST: 87. >> MAREK DONIEC: 69. 68. >> YOJAN PATEL: It's 101.
+52:20
+>> DECARLOS LOVE: Cool 74. >> JAMES: Let's see, what's my heart rate? It's 91, so it's a little elevated.
+52:26
+So a little elevated, but I think the most important thing is heart rate is the foundation of the Fitbit experience you
+52:32
+love, and of so many important fitness and health metrics. Heart rate tells you how hard you're going in workouts, but it
+52:39
+also tells you how well your body is resting between activities. It even lends insights into the quality of your sleep.
+52:47
+With rich heart rate data, you can use your Daily Readiness score with Fitbit Premium to assess whether you're ready to
+52:52
+work out or should prioritize recovery. And during your workout, Pixel Watch will track Active Zone
+52:58
+Minutes, which helps you maximize the time you spend in your target heart rate zones, so you get credit and make every
+53:05
+workout productive. You'll be able to assess your heart rate rhythm for AFib with the ECG app, and provide peace-of-mind for you and your
+53:13
+loved ones with Emergency SOS. And Fall Detection is coming in 2023 to detect hard falls and
+53:20
+alert emergency services on your behalf. Even better, every Pixel Watch comes with six months of Fitbit
+53:27
+Premium. Following along to more than 1,000 workouts, from HIIT to yoga to sport-specific workouts, like golf or soccer.
+53:36
+And you'll have access to over 400 pieces of mindfulness content, like guided breathing, sleep stories and relaxing
+53:43
+sounds. Fitbit Premium also provides a personalized Wellness Report and Health Metrics Dashboard with crucial wellness metrics like
+53:51
+breathing rate, heart rate variability and resting heart rate. On top of all that, we're bringing the Sleep Tracking
+53:58
+experience you know and love from Fitbit to Pixel Watch. We've been a pioneer in this field with over 20 billion
+54:05
+nights tracked, and we continue to improve our sleep tracking with new ways to help you get your best night's rest.
+54:13
+Check your Sleep Score each morning and see your sleep stage breakdown for light sleep, REM and deep sleep.
+54:21
+You can also check the Fitbit app to see your long-term sleep trends. Use those insights to understand your sleep quality and build
+54:29
+healthy habits to get the best rest every night, feel more energized, reduce stress and improve your overall well-being.
+54:37
+The mainstream understanding of fitness is finally starting to come around to the idea that rest is just as important as
+54:46
+activity. So, for those looking to get a better understanding of their bodies, and establish a healthy, positive relationship with
+54:53
+exercise, Pixel Watch is an incredible way to jump in. The most important thing about Pixel Watch is that it's
+55:00
+designed to help you get out there and do things. Paired with Pixel 7, it's the most personal Pixel device yet,
+55:07
+making it easy to keep track of your days, your nights and your life.
+55:14
+Google Pixel Watch starts at $349, and it's available for pre-order today, and on-shelves starting next week.
+55:21
+And enjoy three months of YouTube Music Premium on us, in addition to the six months of Fitbit Premium.
+55:28
+So that's Google Pixel Watch. Bringing the best of Fitbit and Google together in a wearable
+55:35
+that delivers the help you need, at the gym, on the couch, and everywhere in between.
+55:42
+Next up, Rose will preview a new device coming to our portfolio, Pixel's take on the tablet.
+55:49
+[Applause]. >> ROSE: Thank you, James!
+55:57
+Earlier this year, we gave you a sneak peek at our newest product, coming in 2023.
+56:02
+We hope what you see today will get you just as excited as we are. The Pixel family doesn't feel complete without a larger
+56:09
+screen. We set out to build a device that brings together recent advances in Android, Tensor's personal
+56:16
+intelligence, and our Pixel design. The result is a device only Google could make, Google Pixel Tablet.
+56:24
+It's the perfect companion to your Pixel phone and your smart home devices.
+56:30
+We designed Pixel Tablet with premium materials and finishes, as well as smooth, rounded corners to make it an
+56:37
+unmistakable part of the Pixel family. The gorgeous display means you can immerse yourself in your
+56:44
+favorite shows, video calls, games, photos and more.
+56:51
+The foundation for Pixel Tablet is Android, including Material You, so you can completely personalize it with a custom
+56:58
+color palette and new color variants based on your wallpaper and lock screens.
+57:03
+And just as our Pixel phones have always been the best and purest expression of Android, Pixel Tablet is the best way to
+57:12
+experience Android on a tablet. You saw the core of that work at I/O earlier this year.
+57:18
+Since then, we've partnered closely with developers to make sure apps take advantage of large screen features like split
+57:24
+screen and stylus support. We want to thank developers for working closely with us and giving us great feedback.
+57:32
+This is also the first time that we're bringing the power of Google Tensor G2 to an all-new form factor.
+57:40
+With Tensor G2's advanced image processing and machine learning, Pixel Tablet has a whole new level of personalized
+57:47
+intelligence and understanding. That means your favorite Pixel phone features, like video
+57:52
+calling, photo editing, and hands-free help with Google Assistant will work seamlessly on a large-screen device.
+58:00
+Now, one of the best things about tablets is that people use them in so many different ways.
+58:06
+They can be such versatile devices. So when we began designing Pixel Tablet, one of the first things
+58:12
+we asked ourselves was, how can we make a tablet that's always helpful for everyone?
+58:19
+We spent a lot of time talking to people about how they use their tablets, and what they love and don't love about them.
+58:27
+And we heard an interesting theme emerge. It turns out that tablets are homebodies.
+58:32
+They're at home 80 percent of the time, but they're only useful for a small portion of the day.
+58:38
+The rest of the time, tablets feel out of place in our homes. Hidden away in a drawer, misplaced, presenting a tripping
+58:47
+hazard, or just out of battery. So we set out to build something better.
+58:52
+With Pixel Tablet, we're taking everything we've learned from years of making products for the home and for Pixel and combining
+59:00
+it into one great device. It reimagines how a tablet can actually be helpful all the time
+59:08
+in your home by pairing it with a new Charging Speaker Dock. Ta-da!
+59:13
+Let's take a moment! [Cheers and Applause]. It keeps your device charged.
+59:20
+It makes your tablet helpful 24/7, and it unlocks a whole new set of experiences in the home.
+59:27
+Now, as a busy working parent, I love how Pixel Tablet and the dock is bringing some of the best features from a smart
+59:33
+display to a tablet. The enhanced audio experience from the speaker lets me enjoy
+59:39
+my favorite show while I'm cooking in the kitchen, or have an impromptu dance party with my daughter.
+59:45
+The hands-free help from the Assistant is, of course, a life-saver. Like saying, "hey Google, play classical music," when I want to relax at the end of the day.
+59:54
+My Pixel Tablet also gives me easy control over all my smart home devices. So I can turn the lights off in the house and set the thermostat
+1:00:02
+to the perfect sleep temperature without ever getting out of bed.
+1:00:07
+And my favorite Pixel Tablet feature is seeing my memories curated by Google Photos while
+1:00:13
+it's docked. I love glancing over during a busy workday and seeing a photo of my kids as babies.
+1:00:20
+Isn't he cute? It always makes me smile, and my kids love it, too.
+1:00:25
+And of course, the dock itself serves as a charger, so your tablet is always ready for hours of entertainment.
+1:00:31
+Now, we took special care to tuning the magnets so you can easily dock or undock the Pixel Tablet.
+1:00:39
+And when it's in your hand, the premium nanoceramic finish is both beautiful and comfortable.
+1:00:45
+I love leaning back at the end of the day for a little retail therapy.
+1:00:51
+The Pixel Tablet is designed to seamlessly transition from a delightful part of your home to an entertainment device you can
+1:00:58
+take anywhere, making it one of the most versatile and adaptable tablets ever.
+1:01:06
+Combining these features with the dock's beautiful design, and you'll want to have Pixel Tablet in the heart of your home.
+1:01:11
+It transforms your tablet from something that sits in your drawer to an integral part of your life.
+1:01:17
+And we can't wait to share more When it's available next year. Next up, Seang is going to show you how the entire Pixel
+1:01:25
+portfolio works together to provide magically helpful experiences at home and on the go.
+1:01:35
+[Applause]. >> SEANG: We've spent the past few years building a cohesive
+1:01:44
+portfolio of devices and services. Earlier this week, you saw our home portfolio expand
+1:01:50
+with a new Nest Doorbell, and Nest Wifi Pro. And today, you saw the latest members of the Pixel Family.
+1:01:58
+No other company offers such a wide range of helpful products for home and on the go.
+1:02:03
+Now, I want to share how those products all come together to unlock all kinds of helpful ambient experiences.
+1:02:11
+Let's start with the basics. Setting up and keeping track of your devices should be seamless
+1:02:17
+and simple. So we have technologies like Fast Pair to help your Pixel phone quickly sync and work together with all your devices,
+1:02:25
+whether they're made by Google or by one of our Fast Pair partners. With Fast Pair, you're set up in seconds.
+1:02:32
+It's a seamless, simple experience instead of a frustrating one. There are lots of everyday helpful things like that.
+1:02:40
+You shouldn't have to log into the same wifi network with your different devices. Log in with your Pixel phone, and your Google Pixel Watch will
+1:02:47
+connect, too. And how many of us have panicked when we realize our phone is missing?
+1:02:53
+Use Find My Device to figure out where you left it, or say, "Hey Google, find my phone" on your watch to ring your phone when
+1:03:00
+it's lost in the couch cushions. We're making it easy to move your media, too.
+1:03:05
+If you're watching a video on your phone, you can cast it to your TV with just a touch.
+1:03:11
+And beyond those simple fundamentals, all of our products are designed to be more helpful together.
+1:03:16
+Especially in moments that are most important to people, like getting quick answers to your questions, controlling your
+1:03:24
+smart home, and taking photos. What if it was easier to take, edit and share a fun photo
+1:03:32
+across your devices? What kinds of magical experiences could that unlock?
+1:03:38
+Let's explore. It starts with an incredible camera on Pixel 7 to capture the
+1:03:44
+moment. And here's a little Google magic for your group selfie. Open the camera app on your watch, zoom in with the rotating
+1:03:52
+crown and take a picture on your Pixel 7's camera, all from your watch.
+1:03:58
+No more selfie arm in the group pic. If you want to make your photo absolutely perfect, open it on
+1:04:04
+your Pixel Tablet, where you can edit your images on a larger screen. Once you're done editing, it's safely stored in Google Photos.
+1:04:12
+And with the power of machine learning, we'll resurface the memories you want to relive, and filter out the shots that you
+1:04:18
+don't. Enjoy those amazing memories on your watch face, on the Pixel Tablet, or Nest Hub in your kitchen, or your bedroom
+1:04:25
+flatscreen with Google TV. Now let's talk about getting help when you need it.
+1:04:32
+We all have those moments when our hands are full, or we're in the middle of something, and pulling out your phone to send a
+1:04:37
+quick text or look something up is a hassle. Here's where your voice comes in.
+1:04:42
+Asking for what you need is often faster and more natural than tapping or typing on your screen to get small tasks done.
+1:04:51
+And there's so much you can do with your voice across our products with the power of Tensor and our best speech
+1:04:56
+recognition yet. When you're on your way home with some coffee, say, "Hey Google, broadcast that I'm coming home with coffee," and
+1:05:03
+your message will play on the smart speakers throughout your house. And once you're home, the help comes with you.
+1:05:10
+Traditionally, the smart home has been broken up into a bunch ofsiloed experiences.
+1:05:16
+It's harder than it should be. So here's where Pixel helpfulness really comes to life as a better smart home controller.
+1:05:24
+We've designed our Pixel portfolio so every device is a control panel and works seamlessly with the new Google
+1:05:31
+Home app. Now you can easily manage your many smart home devices from your phone.
+1:05:37
+Or your watch. Or your Pixel Buds with just your voice. Wherever you are, you're always just a few taps away from your
+1:05:45
+home. Forgot to turn out the lights and lock your doors as you rush to work? Do it from your phone.
+1:05:53
+With your Nest doorbell, you don't have to get up when someone comes to your door. You'll get a notification telling you who or what's there,
+1:06:00
+on your Pixel Watch, or your phone, or whichever device is closest to you.
+1:06:05
+With Pixel, interruptions don't interrupt you anymore. And at the end of a long day, just say, "Hey Google, turn on
+1:06:14
+relaxation time." And a custom routine can set the mood with your smart lights, and
+1:06:20
+the calming sounds of your favorite playlist. It's a more flexible, more ambient approach to hardware,
+1:06:26
+and it's all about delivering the help you need, wherever and whenever you need it.
+1:06:33
+Next up, we'll have a few final thoughts from Rick to wrap up the show.
+1:06:41
+Rick? [Applause]. >> RICK: The Pixel family is finally all coming together.
+1:06:50
+A growing portfolio all harnessing Google's state-of-the-art AI to
+1:06:56
+understand your needs and make life easier. That's what makes a Pixel a Pixel.
+1:07:02
+It's a level of helpfulness and personal intelligence that's totally unique in the mobile computing world.
+1:07:09
+Like a smartphone that uses AI to help you take the best photos you've ever shot, answers the phone when you don't want to,
+1:07:18
+and helps you communicate in different languages. A watch that delivers the best of Google and Fitbit together.
+1:07:28
+A tablet that's at home in your hands, and in your home.
+1:07:35
+It all comes together in a portfolio of Pixel devices built on Google's state-of-the-art AI, Android, and our Tensor mobile
+1:07:43
+platform. It's a foundation we'll be building on for years to come.
+1:07:49
+We can't wait for you to try this personal computing experience for yourself, when the newest members of the Pixel
+1:07:54
+family hit store shelves next week. You can pre-order the new Google Pixel Watch, Pixel 7, Pixel 7
+1:08:02
+Pro and our newest Nest devices right now in our online Google store.
+1:08:07
+I hope you love them as much as we do. And thank you so much for watching today!
+1:08:28
+[Applause].
